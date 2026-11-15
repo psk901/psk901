@@ -1,55 +1,51 @@
 # Shiva Krishna Palletti
 
-**Developer · AI Explorer · Startup Builder | Hyderabad, Telangana, India**
+**System Operator | Sales & Marketing | Python & Web Development | AI & Automation Explorer | Startup Builder**  
+Hyderabad, Telangana, India
 
-Welcome! I'm Shiva Krishna Palletti (GitHub: **[@psk901](https://github.com/psk901)**). I enjoy turning practical ideas into digital products, building web applications, experimenting with AI-powered tools, and exploring product development.
+I’m a hands-on technology and business professional interested in building practical digital products. I work across operations, sales and marketing, web development, Python automation, API integrations, AI-assisted tools, and early-stage product ideas.
 
-🌐 **Portfolio:** [Shiva Krishna Palletti — Developer, AI Enthusiast & Builder](https://shiva-krishna-portfolio.netlify.app/)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiva-krishna-pallety/)  
-💻 **GitHub:** [@psk901](https://github.com/psk901)  
-📍 **Location:** Hyderabad, Telangana, India
+## Official profiles
 
----
+- **Portfolio:** [shiva-krishna-portfolio.netlify.app](https://shiva-krishna-portfolio.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/shiva-krishna-pallety](https://www.linkedin.com/in/shiva-krishna-pallety/)
+- **GitHub:** [github.com/psk901](https://github.com/psk901)
+- **Location:** Hyderabad, Telangana, India
 
-## Projects and experiments
+## Selected projects
 
-### [Wablo](https://github.com/psk901/wablo-opticals)
-A hyperlocal fashion commerce concept connecting local clothing stores with nearby customers. The product direction includes convenient local delivery and exploration of virtual try-on experiences.
+### [Wablo — Hyperlocal Fashion Commerce](https://github.com/psk901/wablo-opticals)
+A local fashion-commerce platform concept connecting neighbourhood clothing stores with customers. Exploring multi-role web experiences, real-time order updates, and virtual try-on concepts.
 
-### [Ustaad AI](https://github.com/psk901/ustaad-omega)
-An AI assistant experiment exploring voice interaction, reminders, and useful personal workflows.
+### [Ustaad AI — Personal Assistant Experiment](https://github.com/psk901/ustaad-omega)
+An AI assistant project exploring voice interaction, local language support, reminders, and personal productivity workflows.
 
-### [Attendance App](https://github.com/psk901/Attendance-app)
-A QR-based office attendance project with check-in/check-out flows and Google Sheets integration.
+### [Office Attendance App](https://github.com/psk901/Attendance-app)
+A QR-based check-in/check-out workflow with Google Sheets integration for simple office attendance tracking.
 
 ### [MC Transport](https://github.com/psk901/mctransport)
-A web project focused on a digital presence for transport services.
+A web presence and booking-information project for local transport services.
 
----
+## Skills and technologies
 
-## Technologies and areas I explore
+- **Programming:** Python, JavaScript, HTML, CSS
+- **Frontend:** React, responsive web interfaces
+- **Backend:** Node.js, Express.js, REST APIs, JSON
+- **Database and real-time:** MongoDB Atlas, Socket.IO
+- **Automation and integrations:** Google Apps Script, Google Sheets, Telegram bots, API integrations
+- **AI exploration:** LLM integrations, prompt engineering, voice-assistant prototypes, workflow automation
+- **Business:** Sales, marketing, customer engagement, lead generation, advertising, and product development
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, REST APIs
-- **Data:** MongoDB
-- **Programming and tools:** Python, Git, GitHub
-- **Exploring:** Generative AI, voice assistants, automation, and product development
+## Professional interests
 
-## What I'm focused on
-
-- Building practical web applications.
-- Learning and experimenting with AI tools.
-- Improving product thinking and user experience.
-- Turning startup ideas into working prototypes.
+I’m interested in opportunities and collaborations involving junior web development, Python automation, AI tools, technical operations, sales development, business development, and product execution. I value practical problem-solving and building useful solutions.
 
 ## Let's connect
 
-I'm open to learning opportunities, collaboration, and conversations about technology, AI, and product ideas.
-
-- [Visit my portfolio](https://shiva-krishna-portfolio.netlify.app/)
-- [Connect on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety/)
-- [Explore my repositories](https://github.com/psk901?tab=repositories)
+- [Explore my portfolio and projects](https://shiva-krishna-portfolio.netlify.app/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety/)
+- [Browse all GitHub repositories](https://github.com/psk901?tab=repositories)
 
 ---
 
-*Building, learning, and shipping — one project at a time.*
+*Building practical solutions, learning continuously, and turning ideas into working products.*
