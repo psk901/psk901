@@ -5,6 +5,7 @@
 I enjoy turning practical ideas into digital products. I work on web applications, experiment with AI-powered tools, and explore how technology can solve everyday problems.
 
 🌐 **Portfolio:** [shiva-krishna-portfolio.netlify.app](https://shiva-krishna-portfolio.netlify.app)  
+💼 **LinkedIn:** [Shiva Krishna Pallety](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)  
 💻 **GitHub:** [@psk901](https://github.com/psk901)  
 📍 Hyderabad, Telangana, India
 
@@ -48,6 +49,7 @@ A web project focused on a digital presence for transport services.
 I'm open to learning opportunities, collaboration, and conversations about technology, AI, and product ideas.
 
 - 🌐 [Visit my portfolio](https://shiva-krishna-portfolio.netlify.app)
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)
 - 🐙 [Explore my repositories](https://github.com/psk901?tab=repositories)
 
 ---
