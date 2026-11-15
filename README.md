@@ -1,20 +1,20 @@
-# Hey, I'm Shiva Krishna 👋
+# Shiva Krishna Palletti
 
-**Developer · AI Explorer · Startup Builder**
+**Developer · AI Explorer · Startup Builder | Hyderabad, Telangana, India**
 
-I enjoy turning practical ideas into digital products. I work on web applications, experiment with AI-powered tools, and explore how technology can solve everyday problems.
+Welcome! I'm Shiva Krishna Palletti (GitHub: **[@psk901](https://github.com/psk901)**). I enjoy turning practical ideas into digital products, building web applications, experimenting with AI-powered tools, and exploring product development.
 
-🌐 **Portfolio:** [shiva-krishna-portfolio.netlify.app](https://shiva-krishna-portfolio.netlify.app)  
-💼 **LinkedIn:** [Shiva Krishna Pallety](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)  
+🌐 **Portfolio:** [Shiva Krishna Palletti — Developer, AI Enthusiast & Builder](https://shiva-krishna-portfolio.netlify.app/)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)  
 💻 **GitHub:** [@psk901](https://github.com/psk901)  
-📍 Hyderabad, Telangana, India
+📍 **Location:** Hyderabad, Telangana, India
 
 ---
 
-## 🚀 What I'm building
+## Projects and experiments
 
 ### [Wablo](https://github.com/psk901/wablo-opticals)
-A hyperlocal fashion commerce concept connecting local clothing stores with nearby customers, with a focus on convenient shopping and delivery.
+A hyperlocal fashion commerce concept connecting local clothing stores with nearby customers. The product direction includes convenient local delivery and exploration of virtual try-on experiences.
 
 ### [Ustaad AI](https://github.com/psk901/ustaad-omega)
 An AI assistant experiment exploring voice interaction, reminders, and useful personal workflows.
@@ -27,31 +27,29 @@ A web project focused on a digital presence for transport services.
 
 ---
 
-## 🧰 Technologies & areas I work with
+## Technologies and areas I explore
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express, REST APIs
 - **Data:** MongoDB
-- **Programming & tools:** Python, Git, GitHub
-- **Exploring:** Generative AI, voice assistants, automation, product development
+- **Programming and tools:** Python, Git, GitHub
+- **Exploring:** Generative AI, voice assistants, automation, and product development
 
----
-
-## 🌱 What I'm focused on
+## What I'm focused on
 
 - Building practical web applications.
 - Learning and experimenting with AI tools.
 - Improving product thinking and user experience.
 - Turning startup ideas into working prototypes.
 
-## 🤝 Let's connect
+## Let's connect
 
 I'm open to learning opportunities, collaboration, and conversations about technology, AI, and product ideas.
 
-- 🌐 [Visit my portfolio](https://shiva-krishna-portfolio.netlify.app)
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)
-- 🐙 [Explore my repositories](https://github.com/psk901?tab=repositories)
+- [Visit my portfolio](https://shiva-krishna-portfolio.netlify.app/)
+- [Connect on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)
+- [Explore my repositories](https://github.com/psk901?tab=repositories)
 
 ---
 
-<sub>Building, learning, and shipping — one project at a time.</sub>
+*Building, learning, and shipping — one project at a time.*
