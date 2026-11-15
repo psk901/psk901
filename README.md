@@ -1,4 +1,4 @@
-# Shiva Krishna Palletti
+# Shiva Krishna Pallety
 
 **System Operator | Sales & Marketing | Python & Web Development | AI & Automation Explorer | Startup Builder**  
 Hyderabad, Telangana, India
