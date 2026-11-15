@@ -5,7 +5,7 @@
 Welcome! I'm Shiva Krishna Palletti (GitHub: **[@psk901](https://github.com/psk901)**). I enjoy turning practical ideas into digital products, building web applications, experimenting with AI-powered tools, and exploring product development.
 
 🌐 **Portfolio:** [Shiva Krishna Palletti — Developer, AI Enthusiast & Builder](https://shiva-krishna-portfolio.netlify.app/)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shiva-krishna-pallety/)  
 💻 **GitHub:** [@psk901](https://github.com/psk901)  
 📍 **Location:** Hyderabad, Telangana, India
 
@@ -47,7 +47,7 @@ A web project focused on a digital presence for transport services.
 I'm open to learning opportunities, collaboration, and conversations about technology, AI, and product ideas.
 
 - [Visit my portfolio](https://shiva-krishna-portfolio.netlify.app/)
-- [Connect on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety-46aba7193/)
+- [Connect on LinkedIn](https://www.linkedin.com/in/shiva-krishna-pallety/)
 - [Explore my repositories](https://github.com/psk901?tab=repositories)
 
 ---
